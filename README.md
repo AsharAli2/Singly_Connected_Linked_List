@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asharali2&label=Profile%20views&color=0e75b6&style=flat" alt="asharali2" /> </p>
 
-- 🔭 I’m currently Learning  **Data Science Track ** From DataCamp
+- 🔭 I’m currently Learning  **Data Science Track** From DataCamp
 
 - 🌱 I’m currently learning **React , MERN**
 
