@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashar Ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Software developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVkYzIyNTlhMTQyOGVkYzZmYzE4ZjRkYTIwMGE0Y2EzYTc4Njg1MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asharali2&label=Profile%20views&color=0e75b6&style=flat" alt="asharali2" /> </p>
 
-- 🔭 I’m currently working on **Pizza Delivery Website**
+- 🔭 I’m currently Learning  **Data Science Track ** From DataCamp
 
 - 🌱 I’m currently learning **React , MERN**
 
