@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asharali2&label=Profile%20views&color=0e75b6&style=flat" alt="asharali2" /> </p>
 
-- 🔭 I’m currently Learning  **Data Science Track** From DataCamp
+- 🔭 I’m currently on **Data Science Track** From DataCamp
 
-- 🌱 I’m currently learning **React , MERN**
+- 🌱 I’m currently learning **Machine-learning , Deep-learning**
 
-- 💬 Ask me about **Frontend , MERN**
+- 💬 Ask me about **Machine-Learning , MERN-Stack**
 
 - 📫 How to reach me **kkhan.ashar11@gmail.com**
 
